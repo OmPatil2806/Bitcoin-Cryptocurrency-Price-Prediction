@@ -7,4 +7,9 @@
 🔍 While the current version of the project only predicts 7 days of future BTC close prices, it sets the stage for more advanced forecasting. Our focus remains on enhancing prediction accuracy, experimenting with deeper models like XGBoost and LSTM, and eventually scaling this into a real-time predictive tool with live data ingestion 🌐.
 🚧 This project is still evolving. We're actively working on improving feature engineering, model tuning, and accuracy evaluation metrics. So stay tuned — this is not the end! 🚀
 ![image](insight1.png)
-
+![image](insight2.png)
+![image](insight3.png)
+![image](insight4.png)
+![image](insight5.png)
+![image](insight6.png)
+![image](insight7.png)
