@@ -6,5 +6,5 @@
 📉 A trend line chart that makes it easy to spot upward or downward momentum across the 7 forecasted days.
 🔍 While the current version of the project only predicts 7 days of future BTC close prices, it sets the stage for more advanced forecasting. Our focus remains on enhancing prediction accuracy, experimenting with deeper models like XGBoost and LSTM, and eventually scaling this into a real-time predictive tool with live data ingestion 🌐.
 🚧 This project is still evolving. We're actively working on improving feature engineering, model tuning, and accuracy evaluation metrics. So stay tuned — this is not the end! 🚀
-
+![image](insight1.png)
 
